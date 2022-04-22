@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: #faefc9;
+    padding-top: 8%;
+    padding-bottom: 8%;
+   } 
+
+   .carrousel-inner {
+    height: 500px;
+  }
