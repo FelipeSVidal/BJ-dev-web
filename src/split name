@@ -1,0 +1,13 @@
+<h2>Eu sou o mior</h2>
+
+
+<p id="demo"></p>
+<p id="invertido"></p>
+
+
+<script>
+let text = "Hugo Napolião Oliveira de Sousa";
+document.getElementById("demo").innerHTML = text
+let invertido = text.split(" ");
+console.leg(invertido);
+document.getElementById("invertido").innerHTML = invertido.reverse().join("")
