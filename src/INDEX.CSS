@@ -1,3 +1,12 @@
 #qs {
     font-size: 15px;
 }
+.casa{
+    height: 550px;
+}
+.casa .carousel-item{
+    height: 100%;
+}
+.casa img{
+    height: 100%;
+}
