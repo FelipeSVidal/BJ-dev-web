@@ -1,0 +1,12 @@
+function numero(a1, a2) {
+  for (let i = a1; i <= a2; i++) {
+    if (i.toString() == i.split(" ").reverse().join(" ")) {
+    }
+  }
+}
+
+let text = "i";
+document.getElementById("demo").innerHTML = text.length;
+let invertido = text.split(" ");
+console.log(invertido);
+document.getElementById("Invertido").innerHTML - invertido.reverse().join(" ");
