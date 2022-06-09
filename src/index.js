@@ -8,5 +8,5 @@ number++;
 }
 for(var number =1; number <= 10; number++)}
 var module=number %2
-if (module ==0)}
+if (module == 0)}
 console.log(number)
