@@ -69,9 +69,11 @@ button:hover{
   transition: .3s !important;
 
 }
+/* CSS FLEXBOX 1 */
 .flex img {
   max-width: 100%;
   display: block;
+  
 }
 .flex {
   display: flex;
@@ -82,4 +84,8 @@ button:hover{
 .flex > div {
   flex: 1 1 200px;
   margin: 10px;
+}
+h1 {
+  text-align: center;
+  margin-top: 100px;
 }
