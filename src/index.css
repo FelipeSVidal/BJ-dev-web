@@ -5,3 +5,27 @@
     width: 100%;
 }
 
+.button {
+border: none
+color:darkblue
+padding: 32px 50px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+margin: 200px 200px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.button1 {
+    background-color: rgb(163, 200, 255); 
+    color: rgb(17, 5, 66); 
+    border: 2px solid #406adf;
+  }
+  
+  button1:hover {
+    background-color: #3a4cb6;
+    color: .blue;
+    
+    }
+
