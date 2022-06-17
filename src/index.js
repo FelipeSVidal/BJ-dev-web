@@ -1,5 +1,5 @@
 var number = 1;
-while(number <=10)}
+while(number <= 10)}
 var module=number  %2
 if(mosulw == 0)}
 console.log(number)
