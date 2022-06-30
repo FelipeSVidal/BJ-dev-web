@@ -1,8 +1,8 @@
-var numero=2;
-while(numero<=10){
-var modulo = numero%2
-if(modulo==0){
-console.log(numero)
-}
-numero++
+function mostrarOcultarSenha{
+    var senha=document.getElementById("senha");
+    if(senha.type=="password"){
+        senha.type="text";
+    }else{
+        senha.type="password";
+   }
 }
